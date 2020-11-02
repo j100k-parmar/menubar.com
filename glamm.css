@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Bellota', cursive;
+}
+.header{
+    background-color: black;
+    padding: 0 15px;
+    border-bottom: 2px solid #e9e928;
+    height: 120px;
+}
+.navbar{
+    height: 165px;
+    width: 1610px;
+    margin: 0 auto;
+}
+img{
+    width: 175px;
+}
+.mid{
+    display: block;
+    width: 70%;
+    margin-left:170px ;
+    
+    }
+    .menu{
+    display:inline-block;
+    
+
+}
+.menu li{
+    display: inline-block;
+    font-size: 18px;
+   
+}
+.menu li a{
+    text-decoration: none;
+    padding:34px 23px;
+    color: black;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    
+    
+}
+
